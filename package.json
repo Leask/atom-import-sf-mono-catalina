@@ -1,10 +1,10 @@
 {
-  "name": "import-sf-mono",
-  "main": "./lib/import-sf-mono",
-  "version": "1.0.1",
-  "description": "Use the SF Mono font in Atom by importing it from Terminal.app",
+  "name": "import-sf-mono-catalina",
+  "main": "./lib/import-sf-mono-catalina",
+  "version": "1.0.2",
+  "description": "Use the SF Mono font in Atom by importing it from Terminal.app. It works with OS X Catalina now.",
   "keywords": [],
-  "repository": "https://github.com/dtinth/atom-import-sf-mono",
+  "repository": "https://github.com/Leask/atom-import-sf-mono-catalina",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
