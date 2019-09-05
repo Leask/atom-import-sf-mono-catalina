@@ -4,6 +4,10 @@
 
 This Atom package imports the “SF Mono” font directly from `Terminal.app`, which allows you to use this font in Atom.
 
+## Thanks!
+
+Based on https://github.com/dtinth/atom-import-sf-mono
+
 __Usage:__
 
 1. Get a Mac and install Mac OS X Catalina.
